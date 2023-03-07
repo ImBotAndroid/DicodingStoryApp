@@ -1,0 +1,24 @@
+Main View Model :
+Saat memuat data story, data tidak kosong dan jumlah data sesuai
+
+Login View Model :
+- Saat login sukses, mengembalikan hasil response
+- Saat login gagal, mengembalikan hasil response
+- Saat tombol Login di klik, menampilkan loading
+- Saat Login gagal karena salah password/email, memunculkan pesan pada alert dialog
+- Saat login sukses, menyimpan data ke preference
+
+Sign Up View Model :
+- Saat register sukses, mengembalikan hasil response
+- Saat register gagal, mengembalikan hasil response
+- Saat tombol register di klik, menampilkan loading
+- Saat register gagal, menampilkan pesan pada alert dialog
+
+Maps View Model :
+Saat memuat data lokasi, data tidak kosong dan jumlah data sesuai
+
+Upload View Model :
+Saat upload story, mengembalikan hasil response
+
+Setting View Model :
+Saat Log out, menghapus data sesi pada preference

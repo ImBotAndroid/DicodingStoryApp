@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item android:id="@+id/get_story_location"
+            android:icon="@drawable/icon_maps"
+            android:title="@string/get_story_location"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/add_story"
+            android:icon="@drawable/icon_camera"
+            android:title="@string/menu_add_story"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/icon_setting"
+            android:title="@string/menu_setting"
+            app:showAsAction="ifRoom" />
+    </group>
+</menu>

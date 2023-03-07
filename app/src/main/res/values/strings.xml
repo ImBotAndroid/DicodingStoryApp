@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita V1</string>
+
+    <string name="password_char_alert">Min. 6 Karakter</string>
+    <string name="password_empty_alert">Password Tidak Boleh Kosong</string>
+    <string name="hint_password">Masukan Password Anda</string>
+
+    <string name="email_config_alert">Email Harus Sesuai</string>
+    <string name="email_empty_alert">Email Tidak Boleh Kosong</string>
+    <string name="hint_email">Masukan Email Anda</string>
+
+    <string name="hint_name">Masukan Nama Pengguna Anda</string>
+    <string name="name_empty_alert">Nama Pengguna Tidak Boleh Kosong</string>
+
+    <string name="tv_create_account">Sudah Punya Akun? Masuk Sekarang!</string>
+    <string name="text_signup">Belum Punya Akun? Buat Sekarang!</string>
+    <string name="sign_up">Buat Akun</string>
+    <string name="login">Masuk</string>
+    <string name="create_new_account">Buat Akun Baru</string>
+    <string name="create_account">Buat Akun</string>
+
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_add_story">Tambah Cerita</string>
+    <string name="get_story_location">Lokasi Cerita</string>
+
+    <string name="username">Nama Pengguna</string>
+    <string name="story_app">Aplikasi Cerita</string>
+    <string name="log_out">Keluarkan Akun Ini?</string>
+    <string name="button_logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="galery">Galeri</string>
+    <string name="upload">Tambah Cerita</string>
+    <string name="language">Bahasa</string>
+
+    <string name="write_something">Tulis Sesuatu</string>
+    <string name="description_empty_alert">Deskripsi Tidak Boleh Kosong</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="success_crate_account">Berhasil Membuat Akun</string>
+    <string name="failed_crate_account">Oops.. Ada Yang Salah, Coba Lagi Beberapa Saat</string>
+    <string name="email_already_taken">Email Ini Sudah Digunakan, Harap Gunakan Email Lain</string>
+
+    <string name="oke">Oke</string>
+    <string name="cancel">Batal</string>
+
+    <string name="wrong_password">Password Anda Salah</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string>
+    <string name="no_internet">Periksa Koneksi Internet Anda</string>
+    <string name="klik_to_connect">Periksa Koneksi Internet Anda\nKlik Disini Untuk Menyambungkan Ke Internet</string>
+    <string name="date">Tanggal</string>
+</resources>

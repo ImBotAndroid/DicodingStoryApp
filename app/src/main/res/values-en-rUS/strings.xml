@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Story App V1</string>
+
+    <string name="password_char_alert">Min. 6 Character</string>
+    <string name="password_empty_alert">Password Can Not Be Empty</string>
+    <string name="hint_password">Insert Your Password</string>
+
+    <string name="email_config_alert">Email Must Match</string>
+    <string name="email_empty_alert">Email Can Not Be Empty</string>
+    <string name="hint_email">Insert Your Email</string>
+
+    <string name="hint_name">Insert Username</string>
+    <string name="name_empty_alert">Username Can Not Be Empty</string>
+
+    <string name="tv_create_account">Already Have An Account? Sign In Now!</string>
+    <string name="text_signup">Don\'t Have An Account? Create Now!</string>
+    <string name="sign_up">Create Account</string>
+    <string name="login">Sign In</string>
+    <string name="create_new_account">Create A New Account</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="menu_setting">Setting</string>
+    <string name="menu_add_story">Add Story</string>
+    <string name="get_story_location">Story Location</string>
+
+    <string name="username">Username</string>
+    <string name="story_app">Story App</string>
+    <string name="log_out">Log Out This Account?</string>
+    <string name="button_logout">Log Out</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="upload">Upload Story</string>
+    <string name="language">Language</string>
+
+    <string name="write_something">Write Something</string>
+    <string name="description_empty_alert">Description Cannot Be Empty</string>
+    <string name="description">Description</string>
+
+    <string name="success_crate_account">Success Create Account</string>
+    <string name="failed_crate_account">Oops… Something Wrong, Try Again</string>
+    <string name="email_already_taken">This Email Has Already Taken, Please Use Another Email To Register</string>
+
+    <string name="oke">Oke</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="wrong_password">Invalid Password</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="no_internet">Please Check Your Internet Connection</string>
+    <string name="klik_to_connect">Please Check Your Internet Connection\nClick Here To Connect Internet</string>
+
+    <string name="date">Date</string>
+</resources>
